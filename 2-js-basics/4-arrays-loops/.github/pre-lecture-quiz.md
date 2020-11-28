@@ -4,10 +4,10 @@
 
 - [ ] square bracket `[]`
 - [ ] index
-- [ ] curly braces `{}`
+- [*] curly braces `{}`
 
 2. How do you get the number of items in an array
 
 - [ ] The `len(array)` method
-- [ ] The property `size` on the array
+- [*] The property `size` on the array
 - [ ] The `length` property on the array
